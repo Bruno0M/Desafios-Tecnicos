@@ -25,6 +25,11 @@
 | [API RESTful capaz de gerenciar os restaurantes e os produtos do seu cardápio.](https://github.com/goomerdev/job-dev-backend-interview) |
 | [CRUD de filmes](https://github.com/jefersonao/empresas-dotNET) |
 | [Desafio Race Condition em Sistemas Distribuídos](https://dev.to/zanfranceschi/desafio-race-condition-em-sistemas-distribuidos-5hb3) |
+| [Desafio do Zé Delivery](https://github.com/ab-inbev-ze-company/ze-code-challenges/blob/master/backend_pt.md) |
+| [Desafio da Mais Todos](https://github.com/MaisTodos/backend-python-wallet) |
+| [Um bocado de desafio](https://github.com/hurbcom/#want-to-test-yours-skills-with-our-challenges) |
+| [Mais outro bocado de desafios](https://github.com/Strongreen/desafios-tecnicos-empresas?tab=readme-ov-file) |
+
 
 
 <h2 id="contribute">📫 Faça sua Contribuição!</h2>
